@@ -13,7 +13,7 @@ Using two LEDs and a clock signal, stimulating the step button four times will c
 
 ## How to test
 
-Use the step button as a clock signal and count four pushes, and ensure that one of the LEDs turns on and off after each set. 
+Use the step button as a clock signal and count four presses, and ensure that one of the LEDs turns on and off after each set of four counter signals. 
 
 ## External hardware
 
