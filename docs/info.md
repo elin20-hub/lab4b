@@ -9,11 +9,11 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+Using two LEDs and a clock signal, stimulating the step button four times will cause one of the LEDs to turn on and off continuously (as long as the clock signal keeps running). While the step button is being pushed, the other LED will keep flashing as a counter signal. 
 
 ## How to test
 
-Explain how to use your project
+Use the step button as a clock signal and count four pushes, and ensure that one of the LEDs turns on and off after each set. 
 
 ## External hardware
 
